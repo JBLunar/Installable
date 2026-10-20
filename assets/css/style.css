@@ -1,0 +1,21 @@
+#header-content {
+    background-color: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 400px;
+}
+
+h1{
+    color:blueviolet
+}
+
+
+#image {
+	display: block;
+	margin: 0 auto;
+}
+
+#image-container {
+ background-color: black;
+}
